@@ -10,6 +10,7 @@ Welcome to Taller Python FEE's documentation!
    :maxdepth: 2
    :caption: Unitats
 
+   lessons/CursPython
    lessons/1/1_PythonIntroduccio
    lessons/1/2_PandasIntroduccio
    lessons/2/1_Pandas_Seleccio
