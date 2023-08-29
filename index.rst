@@ -11,7 +11,7 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats
 
    lessons/CursPython
-   lessons/1/1_PythonIntroduccio
+   lessons/1/PythonIntroduccio
    lessons/1/2_PandasIntroduccio
    lessons/2/1_Pandas_Seleccio
    lessons/2/2_Pandas_Modificacio
