@@ -16,6 +16,7 @@ Welcome to Curs Python EBAP's documentation!
    lessons/2/1_Pandas_Seleccio
    lessons/2/2_Pandas_Modificacio
    lessons/4/4_PandasGroups
+   lessons/4/4b_AltresOperacions
    lessons/5/5_PandasVisualitzacions
 
    ..  TODO add/uncommemt other notebooks
