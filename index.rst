@@ -10,14 +10,14 @@ Welcome to Curs Python EBAP's documentation!
    :maxdepth: 2
    :caption: Unitats
 
-   lessons/CursPython
-   lessons/1/PythonIntroduccio
-   lessons/1/2_PandasIntroduccio
-   lessons/2/1_Pandas_Seleccio
-   lessons/2/2_Pandas_Modificacio
-   lessons/4/4_PandasGroups
-   lessons/4/4b_AltresOperacions
-   lessons/5/5_PandasVisualitzacions
+   lessons/0_Curs_Python
+   lessons/1_Python_Introduccio
+   lessons/2_Pandas_Introduccio
+   lessons/3_Pandas_Estructura
+   lessons/4_Pandas_Modificacio
+   lessons/5_Pandas_Groups
+   lessons/6_Altres_Operacions
+   lessons/7_Pandas_Visualitzacions
 
    ..  TODO add/uncommemt other notebooks
    .. lessons/2/2_Pandas
