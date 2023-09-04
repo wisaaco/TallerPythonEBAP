@@ -19,10 +19,7 @@ Welcome to Curs Python EBAP's documentation!
    lessons/6_Altres_Operacions
    lessons/7_Pandas_Visualitzacions
 
-   ..  TODO add/uncommemt other notebooks
-   .. lessons/2/2_Pandas
-   .. lessons/3/3_Pandas
-   
+
 .. toctree::
    :maxdepth: 1
    :caption: Deures
