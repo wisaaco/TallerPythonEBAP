@@ -22,14 +22,19 @@ Welcome to Curs Python EBAP's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Deures
+   :caption: Activitats
 
    homework/00/activitat_1_1
    homework/00/activitat_1_2
    homework/00/activitat_4
    homework/00/activitat_5
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Projecte
 
+   homework/00/projecte_final
+   
 .. Indices and tables
 .. ==================
 
