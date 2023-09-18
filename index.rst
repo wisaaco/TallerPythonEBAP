@@ -34,7 +34,13 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Projecte
 
    homework/00/projecte_final
-   
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Solucions
+
+   homework/solucions/1_Activitats_Introduccio
+      
 .. Indices and tables
 .. ==================
 
