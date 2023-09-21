@@ -40,6 +40,8 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Solucions
 
    homework/solucions/1_Activitats_Introduccio
+   homework/solucions/2_Activitats_IntroduccioPandas
+   homework/solucions/3_Activitats_PandasSeleccio
       
 .. Indices and tables
 .. ==================
