@@ -51,3 +51,5 @@ html_theme_options = {
     'titles_only': False
 }
 
+
+latex_engine = "pdflatex"
