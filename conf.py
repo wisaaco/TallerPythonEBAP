@@ -14,11 +14,13 @@ author = 'Isaac Lera and Gabriel Moyà'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["nbsphinx"]
+
 master_doc = "index"
 highlight_language = 'python'
 templates_path = ['_templates']
 
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store','**.ipynb_checkpoints']
+
 
 
 
