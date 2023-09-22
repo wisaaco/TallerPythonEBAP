@@ -43,7 +43,7 @@ Welcome to Curs Python EBAP's documentation!
    homework/solucions/2_Activitats_IntroduccioPandas
    homework/solucions/3_Activitats_PandasSeleccio
    homework/solucions/4_Activitats_PandasModificacio
-   homework/solucions/3_Activitats_PandasAgrupacions
+   homework/solucions/5_Activitats_PandasAgrupacions
       
 .. Indices and tables
 .. ==================
