@@ -44,6 +44,8 @@ Welcome to Curs Python EBAP's documentation!
    homework/solucions/3_Activitats_PandasSeleccio
    homework/solucions/4_Activitats_PandasModificacio
    homework/solucions/5_Activitats_PandasAgrupacions
+   homework/solucions/6_Altres_Operacions
+   homework/solucions/7_Pandas_Visualitzacions
       
 .. Indices and tables
 .. ==================
