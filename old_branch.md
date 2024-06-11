@@ -1,1 +1,0 @@
-# Curs donat a 2023. 
