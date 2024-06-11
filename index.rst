@@ -11,13 +11,14 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats
 
    lessons/0_Curs_Python
-   lessons/1_Python_Introduccio
-   lessons/2_Pandas_Introduccio
-   lessons/3_Pandas_Estructura
-   lessons/4_Pandas_Modificacio
-   lessons/5_Pandas_Groups
-   lessons/6_Altres_Operacions
-   lessons/7_Pandas_Visualitzacions
+   lessons/1_Introduccio_Notebooks
+   lessons/2_Python_Introduccio
+   lessons/3_Pandas_Introduccio
+   lessons/4_Pandas_Estructura
+   lessons/5_Pandas_Modificacio
+   lessons/6_Pandas_Groups
+   lessons/7_Altres_Operacions
+   lessons/8_Pandas_Visualitzacions
 
 
 .. toctree::
